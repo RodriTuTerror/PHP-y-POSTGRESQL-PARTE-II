@@ -1,3 +1,4 @@
+//procesar_reserva.php
 <?php
 require_once 'db.php';
 
